@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Web Developer<br>- Psychology student at Federal University of Ceará (9th Semester).</p>
+<p align="left">Web Developer</p>
 
 ###
 
