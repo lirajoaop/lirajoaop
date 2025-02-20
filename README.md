@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Estagiário de Desenvolvimento Web - PontoGO</p>
+<p align="left">Cursando Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
