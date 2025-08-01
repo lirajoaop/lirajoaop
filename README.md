@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estagiário de Desenvolvimento Web - PontoGO</p>
+<p align="left">Web Developer - PontoGO</p>
 
 ###
 
