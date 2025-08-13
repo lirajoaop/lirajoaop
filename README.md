@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Web - PontoGO</p>
+<p align="left">Web Developer - PontoGO</p>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">Portfólio</h2>
+<h2 align="left">Portfolio</h2>
 
 ###
 
