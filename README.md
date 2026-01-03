@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web Developer - PontoGO</p>
+<p align="left"Fullstack Developer - PontoGO</p>
 
 ###
 
