@@ -36,14 +36,6 @@
 
 ###
 
-<h2 align="left">Most Used Languages</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirajoaop&layout=compact&langs_count=7&hide_border=true&hide_title=true&title_color=fff&icon_color=79ffad&text_color=9f9f9f&bg_color=0d1117" height="150" alt="languages card" />
-</div>
-
-###
-
 <h2 align="left">Portolio</h2>
 
 ###
