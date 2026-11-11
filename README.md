@@ -1,45 +1,30 @@
-<h2 align="left">About me</h2>
+<h1 align="center">João Pedro Lira</h1>
 
-###
+<p align="center">
+  <b>Fullstack Developer · Go + Next.js</b><br>
+  Psychology grad turned developer. I build fast Go backends and clean React interfaces.
+</p>
 
-<p align="left">Fullstack Developer - PontoGO</p>
+<p align="center">
+  <a href="https://jlira-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-lira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact.dev.jplira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-###
+---
 
-<h2 align="left">Techs</h2>
+### 🧪 Latest build: [PsiEncontra](https://psiencontra.vercel.app)
 
-###
+A self-assessment platform that helps Psychology students find their theoretical approach and field of practice. It's where my two backgrounds meet.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+- **Go scoring engine** using ipsative normalization to rank affinities
+- **LLM analysis** of open-ended answers to catch what numbers miss
+- **Radar charts, Google sign-in and PDF reports** in Next.js
 
-###
+[Code →](https://github.com/lirajoaop/psiencontra)
 
-<h2 align="left">Portolio</h2>
+### 🧰 Toolbox
 
-###
+<img src="https://skillicons.dev/icons?i=go,js,react,nextjs,tailwind,postgres,redis,mongodb,firebase,prometheus,grafana,vercel" alt="Tech stack">
 
-<p align="left">https://jlira-portfolio.vercel.app</p>
-
-###
+<p align="center"><sub>🇧🇷 Portuguese · 🇺🇸 English · Fortaleza, BR</sub></p>
