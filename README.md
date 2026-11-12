@@ -22,7 +22,8 @@ A self-assessment platform that helps Psychology students find their theoretical
 - **LLM analysis** of open-ended answers to catch what numbers miss
 - **Radar charts, Google sign-in and PDF reports** in Next.js
 
-<p align="center"><img src="https://raw.githubusercontent.com/lirajoaop/lirajoaop/main/psiencontra.png" width="680" alt="PsiEncontra results: radar charts of theoretical approaches and fields of practice"></p>
+<p align="center"><sub><i>Example results page</i></sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lirajoaop/lirajoaop/main/psiencontra.png" width="680" alt="PsiEncontra example results: radar charts of theoretical approaches and fields of practice"></p>
 
 [Try it live →](https://psiencontra.vercel.app) · [Code →](https://github.com/lirajoaop/psiencontra)
 
