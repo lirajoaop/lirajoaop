@@ -27,6 +27,12 @@ A self-assessment platform that helps Psychology students find their theoretical
 
 [Try it live →](https://psiencontra.vercel.app) · [Code →](https://github.com/lirajoaop/psiencontra)
 
+### 🔧 Also built: [Go Opportunities](https://github.com/lirajoaop/gopportunities)
+
+A REST API for job openings in Go (Gin, GORM, PostgreSQL), with a layered Handler → Service → Repository architecture, Swagger docs and a multi-stage Docker build. Paired with a [Next.js frontend](https://github.com/lirajoaop/gopportunities-front-end).
+
+[Try it live →](https://gopportunities-front-end.vercel.app) · [API code →](https://github.com/lirajoaop/gopportunities) · [Frontend code →](https://github.com/lirajoaop/gopportunities-front-end)
+
 ### 🧰 Toolbox
 
-<img src="https://skillicons.dev/icons?i=go,js,react,nextjs,tailwind,postgres,redis,mongodb,firebase,prometheus,grafana" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,tailwind,postgres,redis,mongodb,firebase,docker,prometheus,grafana" alt="Tech stack">
